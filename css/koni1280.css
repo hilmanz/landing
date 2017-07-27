@@ -1,0 +1,27 @@
+/*
+Theme Name: Situs Online Resmi - PON RIAU XVIII - KONI DKI Jakarta
+Version: 1.0
+Author: ACIT JAZZ - Eurekathemes.com 2012
+*/
+
+body{
+	width:1200px;
+	margin:0 auto;
+	padding:35px 0 100px;
+}
+h1.iconPin{
+	font-size:30px;
+}
+thead th,tbody td{
+	font-size:14px;
+	padding:10px 15px;
+}
+#news h1{
+	font-size:20px;
+}
+#news{
+	font-size:14px;
+}
+.bgTitle{
+	margin:16px 0 40px;
+}
